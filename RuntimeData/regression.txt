@@ -1,0 +1,367 @@
+# Single state evaluation.
+
+# No lois.
+
+e1.env	m1.mov	cq1.qry	6
+e2.env	m2.mov	cq1.qry	0
+e2.env	m3.mov	cq1.qry	6
+
+# LoI1
+
+e1.env	m1.mov	cq2.qry	0
+e1.env	m2.mov	cq2.qry	6
+e1.env  	m4.mov	cq2.qry	6
+
+# t_b = 5, LoI3
+
+e1.env	m5.mov	cq3.qry	0
+e1.env	m6.mov	cq3.qry	0
+e1.env	m7.mov	cq3.qry	3
+
+# t_b = 1, t_e = 6, LoI3
+
+e1.env	m5.mov	cq4.qry	0
+e1.env	m6.mov	cq4.qry	0
+e1.env	m7.mov	cq4.qry	3
+e1.env	m3.mov	cq4.qry	3
+
+# t_b = 5, LoI3, min 25
+
+e1.env	m5.mov	cq5.qry	0
+e1.env	m6.mov	cq5.qry	0
+e1.env	m8.mov	cq5.qry	0
+e1.env	m7.mov	cq5.qry	3
+e1.env	m3.mov	cq5.qry	6
+
+# t_b = 1, t_e = 6, LoI3, min 25
+
+e1.env	m5.mov	cq6.qry	0
+e1.env	m6.mov	cq6.qry	0
+e1.env	m8.mov	cq6.qry	0
+e1.env	m7.mov	cq6.qry	3
+e1.env	m3.mov	cq6.qry	3
+
+# t_b = 5, LoI3, max 25
+
+e1.env	m5.mov	cq7.qry	3
+e1.env	m6.mov	cq7.qry	3
+e1.env	m8.mov	cq7.qry	3
+e1.env	m7.mov	cq7.qry	0
+e1.env	m3.mov	cq7.qry	6
+
+# t_b = 1, t_e = 6, LoI3, max 25
+
+e1.env	m5.mov	cq8.qry	3
+e1.env	m6.mov	cq8.qry	3
+e1.env	m8.mov	cq8.qry	3
+e1.env	m7.mov	cq8.qry	0
+e1.env	m3.mov	cq8.qry	0
+
+# End single state evaluation.
+
+# Evaluation of && and ||.
+
+# &&
+
+# No lois.
+
+e1.env	m1.mov	cq9.qry	6
+e2.env	m2.mov	cq9.qry	0
+e2.env	m3.mov	cq9.qry	6
+
+# LoI3
+
+e1.env	m1.mov	cq10.qry	0
+e1.env	m2.mov	cq10.qry	6
+e1.env  	m4.mov	cq10.qry	6
+
+# t_b = 5, LoI3
+
+e1.env	m5.mov	cq11.qry	0
+e1.env	m6.mov	cq11.qry	0
+e1.env	m7.mov	cq11.qry	3
+
+# t_b = 1, t_e = 6, LoI3
+
+e1.env	m5.mov	cq12.qry	0
+e1.env	m6.mov	cq12.qry	0
+e1.env	m7.mov	cq12.qry	3
+e1.env	m3.mov	cq12.qry	3
+
+# t_b = 5, LoI3, min 25
+
+e1.env	m5.mov	cq13.qry	0
+e1.env	m6.mov	cq13.qry	0
+e1.env	m8.mov	cq13.qry	0
+e1.env	m7.mov	cq13.qry	3
+e1.env	m3.mov	cq13.qry	6
+
+# t_b = 1, t_e = 6, LoI3, min 25
+
+e1.env	m5.mov	cq14.qry	0
+e1.env	m6.mov	cq14.qry	0
+e1.env	m8.mov	cq14.qry	0
+e1.env	m7.mov	cq14.qry	3
+e1.env	m3.mov	cq14.qry	3
+
+# t_b = 5, LoI3, max 25
+
+e1.env	m5.mov	cq15.qry	3
+e1.env	m6.mov	cq15.qry	3
+e1.env	m8.mov	cq15.qry	3
+e1.env	m7.mov	cq15.qry	0
+e1.env	m3.mov	cq15.qry	6
+
+# t_b = 1, t_e = 6, LoI3, max 25
+
+e1.env	m5.mov	cq16.qry	3
+e1.env	m6.mov	cq16.qry	3
+e1.env	m8.mov	cq16.qry	3
+e1.env	m7.mov	cq16.qry	0
+e1.env	m3.mov	cq16.qry	0
+
+# Different conditions in lois = LoI3 and LoI4
+
+# LoI3 and LoI4
+
+e4.env	m1.mov	cq17.qry	0
+e4.env	m2.mov	cq17.qry	6
+e4.env 	m4.mov	cq17.qry	6
+
+# t_b = 5, LoI3 and LoI4
+
+e4.env	m5.mov	cq18.qry	0
+e4.env	m6.mov	cq18.qry	0
+e4.env	m7.mov	cq18.qry	3
+
+# t_b = 1, t_e = 6, LoI3 and LoI4
+
+e4.env	m5.mov	cq19.qry	0
+e4.env	m6.mov	cq19.qry	0
+e4.env	m7.mov	cq19.qry	3
+e4.env	m3.mov	cq19.qry	3
+
+# t_b = 5, LoI3, min 25
+
+e4.env	m5.mov	cq20.qry	0
+e4.env	m6.mov	cq20.qry	0
+e4.env	m8.mov	cq20.qry	0
+e4.env	m7.mov	cq20.qry	3
+e4.env	m3.mov	cq20.qry	6
+
+# t_b = 1, t_e = 6, LoI3, min 25
+
+e4.env	m5.mov	cq21.qry	0
+e4.env	m6.mov	cq21.qry	0
+e4.env	m8.mov	cq21.qry	0
+e4.env	m7.mov	cq21.qry	3
+e4.env	m3.mov	cq21.qry	3
+
+# t_b = 5, LoI3, max 25
+
+e4.env	m5.mov	cq22.qry	3
+e4.env	m6.mov	cq22.qry	3
+e4.env	m8.mov	cq22.qry	3
+e4.env	m7.mov	cq22.qry	0
+e4.env	m3.mov	cq22.qry	6
+
+# t_b = 1, t_e = 6, LoI3, max 25
+
+e4.env	m5.mov	cq23.qry	3
+e4.env	m6.mov	cq23.qry	3
+e4.env	m8.mov	cq23.qry	3
+e4.env	m7.mov	cq23.qry	0
+e4.env	m3.mov	cq23.qry	0
+
+# ||
+
+e1.env	m9.mov	cq24.qry	0
+e1.env	m10.mov	cq24.qry	0
+e1.env	m11.mov	cq24.qry	0
+e1.env	m12.mov	cq24.qry	0
+
+# || and different &&
+
+e4.env	m9.mov	cq25.qry	0
+e4.env	m9.mov	cq26.qry	3
+
+# Choosing between (LoI1/LoI2) and (LoI3/LoI4)
+
+e4.env	m5.mov	cq27.qry	0
+e4.env	m6.mov	cq27.qry	0
+e4.env	m7.mov	cq27.qry	3
+e4.env	m8.mov	cq27.qry	3
+
+e4.env	m13.mov	cq27.qry	0
+e4.env	m14.mov	cq27.qry	0
+e4.env	m15.mov	cq27.qry	3
+e4.env	m16.mov	cq27.qry	3
+
+e4.env	m3.mov	cq27.qry	3
+
+e4.env	m5.mov	cq28.qry	0
+e4.env	m6.mov	cq28.qry	0
+e4.env	m8.mov	cq28.qry	0
+e4.env	m7.mov	cq28.qry	3
+
+e4.env	m13.mov	cq28.qry	0
+e4.env	m14.mov	cq28.qry	0
+e4.env	m15.mov	cq28.qry	0
+e4.env	m16.mov	cq28.qry	3
+
+e4.env	m3.mov	cq28.qry	6
+
+e4.env	m5.mov	cq29.qry	0
+e4.env	m6.mov	cq29.qry	0
+e4.env	m8.mov	cq29.qry	0
+e4.env	m7.mov	cq29.qry	3
+
+e4.env	m13.mov	cq29.qry	0
+e4.env	m14.mov	cq29.qry	0
+e4.env	m15.mov	cq29.qry	0
+e4.env	m16.mov	cq29.qry	3
+
+e4.env	m3.mov	cq29.qry	3
+
+e4.env	m5.mov	cq30.qry	3
+e4.env	m6.mov	cq30.qry	3
+e4.env	m8.mov	cq30.qry	3
+e4.env	m7.mov	cq30.qry	0
+
+e4.env	m13.mov	cq30.qry	3
+e4.env	m14.mov	cq30.qry	3
+e4.env	m15.mov	cq30.qry	3
+e4.env	m16.mov	cq30.qry	0
+
+e4.env	m3.mov	cq30.qry	6
+
+e4.env	m5.mov	cq31.qry	3
+e4.env	m6.mov	cq31.qry	3
+e4.env	m8.mov	cq31.qry	3
+e4.env	m7.mov	cq31.qry	0
+
+e4.env	m13.mov	cq31.qry	3
+e4.env	m14.mov	cq31.qry	3
+e4.env	m15.mov	cq31.qry	3
+e4.env	m16.mov	cq31.qry	0
+
+e4.env	m3.mov	cq31.qry	0
+
+# At least one of the and-chains are timed
+
+e4.env	m5.mov	cq32.qry	0
+e4.env	m6.mov	cq32.qry	0
+e4.env	m8.mov	cq32.qry	3
+e4.env	m7.mov	cq32.qry	3
+
+e4.env	m13.mov	cq32.qry	0
+e4.env	m14.mov	cq32.qry	0
+e4.env	m15.mov	cq32.qry	3
+e4.env	m16.mov	cq32.qry	3
+
+e4.env	m3.mov	cq32.qry	3
+
+e4.env	m17.mov	cq32.qry	0
+e1.env	m18.mov	cq33.qry		0
+e1.env	m19.mov	cq33.qry		3
+
+
+# End evaluation of && and ||.
+
+# Begin consecutive evaluation
+
+# ->
+
+e1.env	m19.mov	cq34.qry	0
+e1.env	m20.mov	cq35.qry	0
+e1.env	m21.mov	cq35.qry	3
+e1.env	m20.mov	cq36.qry	0
+e1.env	m21.mov	cq36.qry	3
+e1.env	m22.mov	cq36.qry	3
+
+# End consecutive evaluation.
+
+# not
+
+e1.env	m1.mov	cq37.qry	0
+e1.env	m1.mov	cq38.qry	0
+
+# end not
+
+# Concurrency classes
+
+# Equals:
+
+e4.env	m1.mov	cq39.qry	0
+e4.env	m1.mov	cq40.qry	7
+
+# During: (Note that 6 can be 7 for an interesting disc.)
+
+e3.env	m23.mov	cq41.qry	0
+e3.env	m24.mov	cq41.qry	6
+
+# Holistic timing
+
+e1.env	m23.mov	cq42.qry		8
+e1.env	m23.mov	cq43.qry		8
+e1.env	m23.mov	cq44.qry		0
+
+# Chain with delta-timed query followed by timed query
+
+e1.env	m12.mov	cq45.qry	3
+
+# m25.mov:
+# LoI1: 3 steps, LoI2: 17 steps, LoI3: 3 steps, LoI2: 7 steps, 
+# LoI4: 10 steps
+
+e3.env	m25.mov	cq46.qry	0
+
+# m26.mov:
+#
+# Should deviate on first atomic query.
+#
+# LoI1: 7 steps, LoI2: 17 steps, LoI3: 3 steps, LoI2: 7 steps, 
+# LoI4: 10 steps
+
+e3.env	m26.mov	cq46.qry	3
+
+# m27.mov:
+#
+# Should deviate on second atomic query.
+#
+# LoI1: 3 steps, LoI4: 7 steps, LoI2: 2 steps, LoI4: 30 steps 
+
+e3.env	m27.mov	cq46.qry	3
+
+# m28.mov:
+#
+# Should deviate on third atomic query.
+#
+# LoI1: 3 steps, LoI2: 6 steps, LoI3: 6 steps, LoI2: 7 steps, 
+# LoI4: 10 steps
+
+e3.env	m28.mov	cq46.qry	3
+
+# m29.mov:
+#
+# Should deviate on third atomic query.
+#
+# LoI1: 3 steps, LoI2: 17 steps, LoI3: 3 steps, LoI2: 21 steps 
+
+e3.env	m29.mov	cq46.qry	3
+
+# m30.mov:
+#
+# Should match a during-query: during(loi5, loi6)
+#
+# LoI6: 10 steps, LoI6/LoI5: 10 steps, LoI6: 10 steps
+
+e3.env	m30.mov	cq47.qry	0
+
+# m31.mov:
+#
+# Should deviate a during-query: during(loi5, loi6)
+#
+# LoI6: 10 steps, LoI6/LoI5: 10 steps, LoI1: 10 steps
+
+e3.env	m31.mov	cq47.qry	7

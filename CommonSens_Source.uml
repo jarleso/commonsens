@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="a1" name="root model">
+  <packagedElement xmi:type="uml:Model" xmi:id="a2" name="CommonSens">
+    <packagedElement xmi:type="uml:Package" xmi:id="a3" name="CommonSens">
+      <packagedElement xmi:type="uml:Artifact" xmi:id="a4" name=".classpath" fileName="C:\Users\jarleso\workspace\CommonSens\.classpath"/>
+      <packagedElement xmi:type="uml:Artifact" xmi:id="a5" name=".project" fileName="C:\Users\jarleso\workspace\CommonSens\.project"/>
+      <packagedElement xmi:type="uml:Package" xmi:id="a6" name=".settings">
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a7" name="de.mvmsoft.checkclipse.prefs" fileName="C:\Users\jarleso\workspace\CommonSens\.settings\de.mvmsoft.checkclipse.prefs"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a8" name="org.eclipse.jdt.core.prefs" fileName="C:\Users\jarleso\workspace\CommonSens\.settings\org.eclipse.jdt.core.prefs"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Package" xmi:id="a9" name="bin">
+        <packagedElement xmi:type="uml:Package" xmi:id="a10" name="apidocs">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a11" name="allclasses-frame.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\allclasses-frame.html"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a12" name="allclasses-noframe.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\allclasses-noframe.html"/>
+          <packagedElement xmi:type="uml:Package" xmi:id="a13" name="com">
+            <packagedElement xmi:type="uml:Package" xmi:id="a14" name="seisw">
+              <packagedElement xmi:type="uml:Package" xmi:id="a15" name="util">
+                <packagedElement xmi:type="uml:Package" xmi:id="a16" name="geom">
+                  <packagedElement xmi:type="uml:Package" xmi:id="a17" name="class-use">
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a18" name="Clip.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\class-use\Clip.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a19" name="ClipTest.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\class-use\ClipTest.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a20" name="GeomTest.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\class-use\GeomTest.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a21" name="Poly.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\class-use\Poly.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a22" name="PolyDefault.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\class-use\PolyDefault.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a23" name="PolyDefaultTest.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\class-use\PolyDefaultTest.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a24" name="PolySimple.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\class-use\PolySimple.html"/>
+                  </packagedElement>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a25" name="Clip.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\Clip.html"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a26" name="ClipTest.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\ClipTest.html"/>
+                  <packagedElement xmi:type="uml:Package" xmi:id="a27" name="demo">
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a28" name="AboutDialog.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\AboutDialog.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a29" name="CanvasState.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\CanvasState.html"/>
+                    <packagedElement xmi:type="uml:Package" xmi:id="a30" name="class-use">
+                      <packagedElement xmi:type="uml:Artifact" xmi:id="a31" name="AboutDialog.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\class-use\AboutDialog.html"/>
+                      <packagedElement xmi:type="uml:Artifact" xmi:id="a32" name="CanvasState.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\class-use\CanvasState.html"/>
+                      <packagedElement xmi:type="uml:Artifact" xmi:id="a33" name="ControlPanel.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\class-use\ControlPanel.html"/>
+                      <packagedElement xmi:type="uml:Artifact" xmi:id="a34" name="MenuBar.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\class-use\MenuBar.html"/>
+                      <packagedElement xmi:type="uml:Artifact" xmi:id="a35" name="PolyCanvas.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\class-use\PolyCanvas.html"/>
+                      <packagedElement xmi:type="uml:Artifact" xmi:id="a36" name="PolyDemo.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\class-use\PolyDemo.html"/>
+                      <packagedElement xmi:type="uml:Artifact" xmi:id="a37" name="StateChangedListener.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\class-use\StateChangedListener.html"/>
+                    </packagedElement>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a38" name="ControlPanel.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\ControlPanel.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a39" name="MenuBar.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\MenuBar.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a40" name="package-frame.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\package-frame.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a41" name="package-summary.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\package-summary.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a42" name="package-tree.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\package-tree.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a43" name="package-use.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\package-use.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a44" name="PolyCanvas.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\PolyCanvas.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a45" name="PolyDemo.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\PolyDemo.html"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a46" name="StateChangedListener.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\demo\StateChangedListener.html"/>
+                  </packagedElement>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a47" name="GeomTest.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\GeomTest.html"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a48" name="package-frame.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\package-frame.html"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a49" name="package-summary.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\package-summary.html"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a50" name="package-tree.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\package-tree.html"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a51" name="package-use.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\package-use.html"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a52" name="Poly.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\Poly.html"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a53" name="PolyDefault.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\PolyDefault.html"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a54" name="PolyDefaultTest.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\PolyDefaultTest.html"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a55" name="PolySimple.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\com\seisw\util\geom\PolySimple.html"/>
+                </packagedElement>
+              </packagedElement>
+            </packagedElement>
+          </packagedElement>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a56" name="constant-values.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\constant-values.html"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a57" name="deprecated-list.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\deprecated-list.html"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a58" name="help-doc.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\help-doc.html"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a59" name="index-all.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\index-all.html"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a60" name="index.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\index.html"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a61" name="overview-frame.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\overview-frame.html"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a62" name="overview-summary.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\overview-summary.html"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a63" name="overview-tree.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\overview-tree.html"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a64" name="package-list" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\package-list"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a65" name="packages.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\packages.html"/>
+          <packagedElement xmi:type="uml:Package" xmi:id="a66" name="resources">
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a67" name="inherit.gif" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\resources\inherit.gif"/>
+          </packagedElement>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a68" name="serialized-form.html" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\serialized-form.html"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a69" name="stylesheet.css" fileName="C:\Users\jarleso\workspace\CommonSens\bin\apidocs\stylesheet.css"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a70" name="com">
+          <packagedElement xmi:type="uml:Package" xmi:id="a71" name="seisw">
+            <packagedElement xmi:type="uml:Package" xmi:id="a72" name="util">
+              <packagedElement xmi:type="uml:Package" xmi:id="a73" name="geom">
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a74" name="Clip$AetTree.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$AetTree.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a75" name="Clip$BundleState.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$BundleState.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a76" name="Clip$EdgeNode.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$EdgeNode.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a77" name="Clip$EdgeTable.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$EdgeTable.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a78" name="Clip$HState.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$HState.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a79" name="Clip$ItNode.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$ItNode.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a80" name="Clip$ItNodeTable.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$ItNodeTable.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a81" name="Clip$LmtNode.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$LmtNode.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a82" name="Clip$LmtTable.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$LmtTable.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a83" name="Clip$OperationType.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$OperationType.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a84" name="Clip$PolygonNode.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$PolygonNode.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a85" name="Clip$ScanBeamTree.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$ScanBeamTree.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a86" name="Clip$ScanBeamTreeEntries.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$ScanBeamTreeEntries.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a87" name="Clip$StNode.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$StNode.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a88" name="Clip$TopPolygonNode.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$TopPolygonNode.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a89" name="Clip$VertexNode.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$VertexNode.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a90" name="Clip$VertexType.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip$VertexType.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a91" name="Clip.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Clip.class"/>
+                <packagedElement xmi:type="uml:Package" xmi:id="a92" name="demo">
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a93" name="CanvasState.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\demo\CanvasState.class"/>
+                  <packagedElement xmi:type="uml:Package" xmi:id="a94" name="icons">
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a95" name="About16.gif" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\demo\icons\About16.gif"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a96" name="pd_icon.gif" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\demo\icons\pd_icon.gif"/>
+                    <packagedElement xmi:type="uml:Artifact" xmi:id="a97" name="sei_logo.gif" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\demo\icons\sei_logo.gif"/>
+                  </packagedElement>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a98" name="PolyCanvas$NewPointListener.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\demo\PolyCanvas$NewPointListener.class"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a99" name="PolyCanvas$State.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\demo\PolyCanvas$State.class"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a100" name="PolyCanvas$StateOperation.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\demo\PolyCanvas$StateOperation.class"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a101" name="PolyCanvas$StateOperationInter.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\demo\PolyCanvas$StateOperationInter.class"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a102" name="PolyCanvas$StateOperationUnion.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\demo\PolyCanvas$StateOperationUnion.class"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a103" name="PolyCanvas$StateOperationXor.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\demo\PolyCanvas$StateOperationXor.class"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a104" name="PolyCanvas$StatePoly.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\demo\PolyCanvas$StatePoly.class"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a105" name="PolyCanvas.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\demo\PolyCanvas.class"/>
+                  <packagedElement xmi:type="uml:Artifact" xmi:id="a106" name="StateChangedListener.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\demo\StateChangedListener.class"/>
+                </packagedElement>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a107" name="Poly.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\Poly.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a108" name="PolyDefault.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\PolyDefault.class"/>
+                <packagedElement xmi:type="uml:Artifact" xmi:id="a109" name="PolySimple.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\com\seisw\util\geom\PolySimple.class"/>
+              </packagedElement>
+            </packagedElement>
+          </packagedElement>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a110" name="environment">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a111" name="CommonSensObject.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\environment\CommonSensObject.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a112" name="CoordinateStrength.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\environment\CoordinateStrength.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a113" name="Environment.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\environment\Environment.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a114" name="LocationOfInterest.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\environment\LocationOfInterest.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a115" name="Permeability.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\environment\Permeability.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a116" name="Person.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\environment\Person.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a117" name="Ray.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\environment\Ray.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a118" name="Shape.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\environment\Shape.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a119" name="Triple.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\environment\Triple.class"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a120" name="eventProcessor">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a121" name="AndChainCalculations.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\AndChainCalculations.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a122" name="ConcurrencyState.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\ConcurrencyState.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a123" name="DataTuple.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\DataTuple.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a124" name="DataTupleFilter.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\DataTupleFilter.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a125" name="DuringState.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\DuringState.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a126" name="EqualsState.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\EqualsState.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a127" name="Interval.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\Interval.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a128" name="MainDataTupleFilter.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\MainDataTupleFilter.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a129" name="State.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\State.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a130" name="StateMachine.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\StateMachine.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a131" name="TemporalFeature.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\TemporalFeature.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a132" name="TimedChainOfStates.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\TimedChainOfStates.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a133" name="Timer.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\Timer.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a134" name="Timestamp.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\Timestamp.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a135" name="Transition.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\Transition.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a136" name="TupleSourceStatement.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\eventProcessor\TupleSourceStatement.class"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a137" name="GpcjLicenseAgreement.txt" fileName="C:\Users\jarleso\workspace\CommonSens\bin\GpcjLicenseAgreement.txt"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a138" name="language">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a139" name="AND.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\AND.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a140" name="AtomicStatement.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\AtomicStatement.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a141" name="ConcurrencyOperator.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\ConcurrencyOperator.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a142" name="ConditionalStrict.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\ConditionalStrict.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a143" name="ConOpDuring.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\ConOpDuring.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a144" name="ConOpEquals.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\ConOpEquals.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a145" name="LogicalOperator.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\LogicalOperator.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a146" name="Loose.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\Loose.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a147" name="NOT.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\NOT.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a148" name="OR.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\OR.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a149" name="Relation.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\Relation.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a150" name="Restricted.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\Restricted.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a151" name="Statement.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\Statement.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a152" name="StatementElement.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\StatementElement.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a153" name="Strict.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\Strict.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a154" name="Strictness.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\Strictness.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a155" name="StrictnessFilter.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\StrictnessFilter.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a156" name="TimedChainOfAtomicStatements.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\language\TimedChainOfAtomicStatements.class"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a157" name="modelViewController">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a158" name="CapabilityChooser.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\CapabilityChooser.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a159" name="CommonSens.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\CommonSens.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a160" name="Core.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\Core.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a161" name="DrawPanel.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\DrawPanel.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a162" name="EnvironmentCreator.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\EnvironmentCreator.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a163" name="EnvironmentPanel.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\EnvironmentPanel.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a164" name="FChoose.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\FChoose.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a165" name="LocationOfInterestCreator.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\LocationOfInterestCreator.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a166" name="MainView.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\MainView.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a167" name="MainView.form" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\MainView.form"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a168" name="MovementCreator.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\MovementCreator.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a169" name="MovementRunner.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\MovementRunner.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a170" name="ObjectChooser.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\ObjectChooser.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a171" name="ObjectCreator.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\ObjectCreator.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a172" name="PhysicalSensorCreator.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\PhysicalSensorCreator.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a173" name="SensorChooser.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\SensorChooser.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a174" name="ShapeCanvas.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\ShapeCanvas.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a175" name="ShapeChooser$ChoiceListener.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\ShapeChooser$ChoiceListener.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a176" name="ShapeChooser.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\ShapeChooser.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a177" name="StatementCreator$1.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\StatementCreator$1.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a178" name="StatementCreator$2.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\StatementCreator$2.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a179" name="StatementCreator$3.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\StatementCreator$3.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a180" name="StatementCreator$4.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\StatementCreator$4.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a181" name="StatementCreator$5.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\StatementCreator$5.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a182" name="StatementCreator$6.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\StatementCreator$6.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a183" name="StatementCreator$7.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\StatementCreator$7.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a184" name="StatementCreator.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\StatementCreator.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a185" name="StatementCreator.form" fileName="C:\Users\jarleso\workspace\CommonSens\bin\modelViewController\StatementCreator.form"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a186" name="PolyDemoAnt.xml" fileName="C:\Users\jarleso\workspace\CommonSens\bin\PolyDemoAnt.xml"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a187" name="sensing">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a188" name="ByTheTelephoneFunction.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\ByTheTelephoneFunction.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a189" name="Capability.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\Capability.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a190" name="CapabilityDescription.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\CapabilityDescription.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a191" name="CustomFunction.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\CustomFunction.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a192" name="CustomFunctionLoader.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\CustomFunctionLoader.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a193" name="EmulatedTupleSource.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\EmulatedTupleSource.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a194" name="ExternalSource.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\ExternalSource.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a195" name="InTheKitchenFunction.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\InTheKitchenFunction.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a196" name="LogicalSensor.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\LogicalSensor.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a197" name="PhysicalSensor.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\PhysicalSensor.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a198" name="RangeInt.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\RangeInt.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a199" name="RangeString.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\RangeString.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a200" name="SensorDetected.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\SensorDetected.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a201" name="Service.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\Service.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a202" name="SignalType.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\SignalType.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a203" name="TemplateFunction.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\TemplateFunction.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a204" name="TupleSource.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\sensing\TupleSource.class"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a205" name="statistics">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a206" name="Measure.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\statistics\Measure.class"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a207" name="PlotCreator.class" fileName="C:\Users\jarleso\workspace\CommonSens\bin\statistics\PlotCreator.class"/>
+        </packagedElement>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Artifact" xmi:id="a208" name="CommonSens.j2se5" fileName="C:\Users\jarleso\workspace\CommonSens\CommonSens.j2se5"/>
+      <packagedElement xmi:type="uml:Artifact" xmi:id="a209" name="CommonSens.j2se5.log" fileName="C:\Users\jarleso\workspace\CommonSens\CommonSens.j2se5.log"/>
+      <packagedElement xmi:type="uml:Artifact" xmi:id="a210" name="CommonSensClassDiagram.cdx" fileName="C:\Users\jarleso\workspace\CommonSens\CommonSensClassDiagram.cdx"/>
+      <packagedElement xmi:type="uml:Artifact" xmi:id="a211" name="CommonSens_Source.kdm.log" fileName="C:\Users\jarleso\workspace\CommonSens\CommonSens_Source.kdm.log"/>
+      <packagedElement xmi:type="uml:Package" xmi:id="a212" name="Experiments">
+        <packagedElement xmi:type="uml:Package" xmi:id="a213" name="1274171699326"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a214" name="1274184105514"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a215" name="1274184154712"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a216" name="1274186507968"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a217" name="1274186529406"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a218" name="1274450927451">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a219" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a220" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a221" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a222" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a223" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a224" name="regression_result.txt" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\regression_result.txt"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a225" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a226" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a227" name="S1_0_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\S1_0_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a228" name="S1_0_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\S1_0_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a229" name="S2_0_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\S2_0_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a230" name="S2_0_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\S2_0_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a231" name="S3_0_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\S3_0_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a232" name="S3_0_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\S3_0_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a233" name="S4_0_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\S4_0_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a234" name="S4_0_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\S4_0_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a235" name="S5_0_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\S5_0_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a236" name="S5_0_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\S5_0_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a237" name="S6_0_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\S6_0_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a238" name="S6_0_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274450927451\S6_0_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a239" name="1274451540355">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a240" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a241" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a242" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a243" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a244" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a245" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a246" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a247" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a248" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a249" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a250" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a251" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a252" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a253" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a254" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274451540355\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a255" name="1274451925491"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a256" name="1274452287648">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a257" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a258" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a259" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a260" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a261" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a262" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a263" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a264" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a265" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a266" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a267" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a268" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a269" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a270" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a271" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452287648\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a272" name="1274452335187">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a273" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a274" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a275" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a276" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a277" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a278" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a279" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a280" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a281" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a282" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a283" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a284" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a285" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a286" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a287" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274452335187\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a288" name="1274456906674">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a289" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a290" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a291" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a292" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a293" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a294" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a295" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a296" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a297" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a298" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a299" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a300" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a301" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a302" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a303" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274456906674\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a304" name="1274536336230"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a305" name="1274536921601">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a306" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a307" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a308" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a309" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a310" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a311" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a312" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a313" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a314" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a315" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a316" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a317" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a318" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a319" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a320" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274536921601\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a321" name="1274537678295">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a322" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a323" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a324" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a325" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a326" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a327" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a328" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a329" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a330" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a331" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a332" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a333" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a334" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a335" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a336" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274537678295\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a337" name="1274538039601">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a338" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a339" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a340" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a341" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a342" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a343" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a344" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a345" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a346" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a347" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a348" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a349" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a350" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a351" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a352" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538039601\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a353" name="1274538342679">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a354" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a355" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a356" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a357" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a358" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a359" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a360" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a361" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a362" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a363" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a364" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a365" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a366" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a367" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a368" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274538342679\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a369" name="1274544324209">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a370" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a371" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a372" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a373" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a374" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a375" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a376" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a377" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a378" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a379" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a380" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a381" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a382" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a383" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a384" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274544324209\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a385" name="1274705847011">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a386" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a387" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a388" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a389" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a390" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a391" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a392" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a393" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a394" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a395" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a396" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a397" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a398" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a399" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a400" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274705847011\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a401" name="1274706800695">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a402" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a403" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a404" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a405" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a406" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a407" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a408" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a409" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a410" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a411" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a412" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a413" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a414" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a415" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a416" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274706800695\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a417" name="1274707078910">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a418" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a419" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a420" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a421" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a422" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a423" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a424" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a425" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a426" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a427" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a428" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a429" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a430" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a431" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a432" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274707078910\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a433" name="1274708079208">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a434" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a435" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a436" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a437" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a438" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a439" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a440" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a441" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a442" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a443" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a444" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a445" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a446" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a447" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a448" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708079208\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a449" name="1274708421009">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a450" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a451" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a452" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a453" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a454" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a455" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a456" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a457" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a458" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a459" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a460" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a461" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a462" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a463" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a464" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708421009\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a465" name="1274708632402">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a466" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a467" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a468" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a469" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a470" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a471" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a472" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a473" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a474" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a475" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a476" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a477" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a478" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a479" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a480" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274708632402\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a481" name="1274709936139">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a482" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a483" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a484" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a485" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a486" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a487" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a488" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a489" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a490" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a491" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a492" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a493" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a494" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a495" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a496" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274709936139\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a497" name="1274710668080">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a498" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a499" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a500" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a501" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a502" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a503" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a504" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a505" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a506" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a507" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a508" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a509" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a510" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a511" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a512" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274710668080\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a513" name="1274716702645">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a514" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a515" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a516" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a517" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a518" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a519" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a520" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a521" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a522" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a523" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a524" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a525" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a526" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a527" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a528" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716702645\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a529" name="1274716766944">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a530" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a531" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a532" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a533" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a534" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a535" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a536" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a537" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a538" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a539" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a540" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a541" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a542" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a543" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a544" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274716766944\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a545" name="1274717582126">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a546" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a547" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a548" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a549" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a550" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a551" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a552" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a553" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a554" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a555" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a556" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a557" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a558" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a559" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a560" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717582126\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a561" name="1274717613819">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a562" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a563" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a564" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a565" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a566" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a567" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a568" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a569" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a570" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a571" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a572" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a573" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a574" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a575" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a576" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274717613819\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a577" name="1274718528627">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a578" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a579" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a580" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a581" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a582" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a583" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a584" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a585" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a586" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a587" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a588" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a589" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a590" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a591" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a592" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274718528627\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a593" name="1274720113524">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a594" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a595" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a596" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a597" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a598" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a599" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a600" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a601" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a602" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a603" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a604" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a605" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a606" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a607" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a608" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720113524\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a609" name="1274720391433">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a610" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a611" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a612" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a613" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a614" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a615" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a616" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a617" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a618" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a619" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a620" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a621" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a622" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a623" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a624" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720391433\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a625" name="1274720599982"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a626" name="1274720640664">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a627" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a628" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a629" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a630" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a631" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a632" name="regression_result.txt" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\regression_result.txt"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a633" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a634" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a635" name="S1_0_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\S1_0_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a636" name="S1_0_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\S1_0_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a637" name="S2_0_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\S2_0_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a638" name="S2_0_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\S2_0_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a639" name="S3_0_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\S3_0_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a640" name="S3_0_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\S3_0_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a641" name="S4_0_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\S4_0_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a642" name="S4_0_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\S4_0_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a643" name="S5_0_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\S5_0_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a644" name="S5_0_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\S5_0_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a645" name="S6_0_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\S6_0_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a646" name="S6_0_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274720640664\S6_0_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a647" name="1274770721926">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a648" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a649" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a650" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a651" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a652" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a653" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a654" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a655" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a656" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a657" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a658" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a659" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a660" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a661" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a662" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274770721926\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a663" name="1274771619590">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a664" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a665" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a666" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a667" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a668" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a669" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a670" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a671" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a672" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a673" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a674" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a675" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a676" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a677" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a678" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274771619590\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a679" name="1274772488249"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a680" name="1274772703373"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a681" name="1274773536916">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a682" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a683" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a684" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a685" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a686" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a687" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a688" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a689" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a690" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a691" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a692" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a693" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a694" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a695" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a696" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274773536916\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a697" name="1274774090242">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a698" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a699" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a700" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a701" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a702" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a703" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a704" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a705" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a706" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a707" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a708" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a709" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a710" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a711" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a712" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774090242\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a713" name="1274774125162">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a714" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a715" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a716" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a717" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a718" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a719" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a720" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a721" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a722" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a723" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a724" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a725" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a726" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a727" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a728" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774125162\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a729" name="1274774499350"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a730" name="1274774919055">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a731" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a732" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a733" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a734" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a735" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a736" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a737" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a738" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a739" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a740" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a741" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a742" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a743" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a744" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a745" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274774919055\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a746" name="1274775409963">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a747" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a748" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a749" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a750" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a751" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a752" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a753" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a754" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a755" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a756" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a757" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a758" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a759" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a760" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a761" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274775409963\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a762" name="1274777380035">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a763" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a764" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a765" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a766" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a767" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a768" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a769" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a770" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a771" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a772" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a773" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a774" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a775" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a776" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a777" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777380035\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a778" name="1274777608402"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a779" name="1274777640972"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a780" name="1274777714447"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a781" name="1274777829464"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="a782" name="1274777849071">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a783" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a784" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a785" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a786" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a787" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a788" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a789" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a790" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a791" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a792" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a793" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a794" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a795" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a796" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a797" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274777849071\S4_pulled_0.dat"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="a798" name="1274780380720">
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a799" name="0_0_0_Measurements.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\0_0_0_Measurements.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a800" name="0_0_0_StateChanges.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\0_0_0_StateChanges.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a801" name="0_0_0_TupleSources.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\0_0_0_TupleSources.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a802" name="0_StateMachine.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\0_StateMachine.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a803" name="InstantiatedStatement.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\InstantiatedStatement.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a804" name="RFIDActiveTag_10_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\RFIDActiveTag_10_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a805" name="RFIDActiveTag_10_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\RFIDActiveTag_10_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a806" name="S1_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\S1_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a807" name="S1_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\S1_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a808" name="S2_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\S2_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a809" name="S2_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\S2_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a810" name="S3_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\S3_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a811" name="S3_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\S3_pulled_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a812" name="S4_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\S4_0.dat"/>
+          <packagedElement xmi:type="uml:Artifact" xmi:id="a813" name="S4_pulled_0.dat" fileName="C:\Users\jarleso\workspace\CommonSens\Experiments\1274780380720\S4_pulled_0.dat"/>
+        </packagedElement>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Package" xmi:id="a814" name="RuntimeData">
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a815" name="a_0.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\a_0.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a816" name="b_0.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\b_0.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a817" name="c1.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c1.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a818" name="c10.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c10.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a819" name="c10_delta_timed.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c10_delta_timed.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a820" name="c10_timed.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c10_timed.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a821" name="c11_timed.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c11_timed.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a822" name="c12_and_and.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c12_and_and.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a823" name="c12_and_or.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c12_and_or.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a824" name="c12_or_and.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c12_or_and.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a825" name="c12_or_or.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c12_or_or.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a826" name="c13.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c13.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a827" name="c13_1.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c13_1.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a828" name="c14.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c14.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a829" name="c1_1and_similar.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c1_1and_similar.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a830" name="c1_e1_LoI3.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c1_e1_LoI3.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a831" name="c1_e2_all.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c1_e2_all.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a832" name="c1_middle_LoI1.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c1_middle_LoI1.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a833" name="c1_middle_LoI2.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c1_middle_LoI2.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a834" name="c1_middle_LoI3.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c1_middle_LoI3.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a835" name="c1_middle_LoI4.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c1_middle_LoI4.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a836" name="c1_not.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c1_not.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a837" name="c1_noTrigger.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c1_noTrigger.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a838" name="c2.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c2.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a839" name="c2_1and_different.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c2_1and_different.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a840" name="c2_1and_similar.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c2_1and_similar.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a841" name="c2_1or_1and_different.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c2_1or_1and_different.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a842" name="c2_3or.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c2_3or.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a843" name="c2_3or_deltaTimed.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c2_3or_deltaTimed.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a844" name="c2_LoI4.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c2_LoI4.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a845" name="c2_not.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c2_not.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a846" name="c3.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a847" name="c3_1and_different.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_1and_different.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a848" name="c3_1and_similar.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_1and_similar.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a849" name="c3_1or_1and_different.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_1or_1and_different.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a850" name="c3_1or_different_timing.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_1or_different_timing.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a851" name="c3_all_lois_1_step.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_all_lois_1_step.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a852" name="c3_all_lois_1_step_1.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_all_lois_1_step_1.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a853" name="c3_all_lois_2_to_3_steps.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_all_lois_2_to_3_steps.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a854" name="c3_all_lois_3_steps.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_all_lois_3_steps.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a855" name="c3_all_lois_3_steps_1_middle.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_all_lois_3_steps_1_middle.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a856" name="c3_all_lois_3_to_2_steps.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_all_lois_3_to_2_steps.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a857" name="c3_all_lois_LoI3_6_steps.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_all_lois_LoI3_6_steps.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a858" name="c3_diagonal_middle_5.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_diagonal_middle_5.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a859" name="c3_LoI1_1_step.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_LoI1_1_step.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a860" name="c3_LoI1_3_steps.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_LoI1_3_steps.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a861" name="c3_LoI1_5_steps.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_LoI1_5_steps.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a862" name="c3_LoI1_6_steps.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_LoI1_6_steps.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a863" name="c3_LoI3_1_step.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_LoI3_1_step.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a864" name="c3_LoI3_3_steps.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_LoI3_3_steps.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a865" name="c3_LoI3_5_steps.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_LoI3_5_steps.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a866" name="c3_LoI3_6_steps.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_LoI3_6_steps.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a867" name="c3_LoI3_LoI1_12_steps.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_LoI3_LoI1_12_steps.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a868" name="c3_lower_part_12_steps.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c3_lower_part_12_steps.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a869" name="c4.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c4.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a870" name="c4_1and_different.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c4_1and_different.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a871" name="c4_1and_similar.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c4_1and_similar.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a872" name="c4_1or_1and_different.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c4_1or_1and_different.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a873" name="c5.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c5.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a874" name="c5_1and_different.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c5_1and_different.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a875" name="c5_1and_similar.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c5_1and_similar.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a876" name="c5_1or_1and_different.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c5_1or_1and_different.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a877" name="c6.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c6.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a878" name="c6_1and_different.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c6_1and_different.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a879" name="c6_1and_similar.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c6_1and_similar.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a880" name="c6_1or_1and_different.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c6_1or_1and_different.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a881" name="c7.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c7.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a882" name="c7_1and_different.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c7_1and_different.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a883" name="c7_1and_similar.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c7_1and_similar.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a884" name="c7_1or_1and_different.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c7_1or_1and_different.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a885" name="c8.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c8.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a886" name="c8_1and_different.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c8_1and_different.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a887" name="c8_1and_similar.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c8_1and_similar.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a888" name="c8_1or_1and_different.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c8_1or_1and_different.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a889" name="c9.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c9.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a890" name="c9_delta_timed.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c9_delta_timed.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a891" name="c9_timed.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c9_timed.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a892" name="capabilities.dat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\capabilities.dat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a893" name="casas_telephone_1.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\casas_telephone_1.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a894" name="casas_telephone_2.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\casas_telephone_2.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a895" name="casas_telephone_3.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\casas_telephone_3.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a896" name="casas_telephone_4.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\casas_telephone_4.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a897" name="casas_telephone_5.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\casas_telephone_5.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a898" name="casas_wash_hands_1.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\casas_wash_hands_1.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a899" name="coverageCalcFour_0.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\coverageCalcFour_0.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a900" name="coverageCalcOne_0.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\coverageCalcOne_0.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a901" name="coverageCalcThree_0.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\coverageCalcThree_0.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a902" name="coverageCalcTwo_0.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\coverageCalcTwo_0.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a903" name="c_0.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\c_0.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a904" name="DEBS_1.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\DEBS_1.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a905" name="DEBS_2.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\DEBS_2.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a906" name="DEBS_3.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\DEBS_3.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a907" name="DMSN10_Med1.trace" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\DMSN10_Med1.trace"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a908" name="DMSN10_PlaceLab_kitchen.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\DMSN10_PlaceLab_kitchen.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a909" name="DMSN10_PlaceLab_Kitchen_movement1.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\DMSN10_PlaceLab_Kitchen_movement1.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a910" name="DMSN10_TakingMedications.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\DMSN10_TakingMedications.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a911" name="DMSN10_WSU_bathroom.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\DMSN10_WSU_bathroom.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a912" name="d_0" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\d_0"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a913" name="e1.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\e1.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a914" name="e2.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\e2.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a915" name="e3.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\e3.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a916" name="e4.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\e4.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a917" name="e5.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\e5.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a918" name="ent_test_1.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\ent_test_1.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a919" name="ent_test_2.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\ent_test_2.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a920" name="ent_test_3.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\ent_test_3.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a921" name="ent_test_3_patt_1.pat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\ent_test_3_patt_1.pat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a922" name="ent_test_4.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\ent_test_4.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a923" name="ent_test_5.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\ent_test_5.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a924" name="ent_test_6.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\ent_test_6.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a925" name="ent_test_backup.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\ent_test_backup.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a926" name="environments.dat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\environments.dat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a927" name="environments_stored.dat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\environments_stored.dat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a928" name="env_test.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\env_test.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a929" name="exp1_backup.txt" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\exp1_backup.txt"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a930" name="exp1_pattern1.pat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\exp1_pattern1.pat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a931" name="exp1_pattern2.pat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\exp1_pattern2.pat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a932" name="exp1_pattern3_dev.pat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\exp1_pattern3_dev.pat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a933" name="exp1_pattern4_dev.pat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\exp1_pattern4_dev.pat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a934" name="Experiment design.txt" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\Experiment design.txt"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a935" name="home_environment_1.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\home_environment_1.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a936" name="home_environment_2.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\home_environment_2.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a937" name="home_environment_3.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\home_environment_3.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a938" name="home_environment_3_without_MP.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\home_environment_3_without_MP.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a939" name="home_environment_4.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\home_environment_4.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a940" name="home_environment_5.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\home_environment_5.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a941" name="home_environment_bathroom_1.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\home_environment_bathroom_1.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a942" name="LoI1_3_steps_LoI4_6_steps.mov" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\LoI1_3_steps_LoI4_6_steps.mov"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a943" name="LoI1_LoI2_LoI3.pat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\LoI1_LoI2_LoI3.pat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a944" name="LoI1_LoI3_LoI2.pat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\LoI1_LoI3_LoI2.pat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a945" name="LoI1_out.pat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\LoI1_out.pat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a946" name="objects.dat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\objects.dat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a947" name="pattern1.pat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\pattern1.pat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a948" name="regression.txt" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\regression.txt"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a949" name="regression_bak.txt" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\regression_bak.txt"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a950" name="sensors.dat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\sensors.dat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a951" name="statement1.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\statement1.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a952" name="statement2.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\statement2.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a953" name="statement3.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\statement3.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a954" name="statementSetupTime.dat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\statementSetupTime.dat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a955" name="strictness_1.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\strictness_1.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a956" name="strictness_2_with_min_100.stm" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\strictness_2_with_min_100.stm"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a957" name="systematic_1.env" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\systematic_1.env"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a958" name="systematic_1_falsePositive_1.pat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\systematic_1_falsePositive_1.pat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a959" name="systematic_1_normal_1.pat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\systematic_1_normal_1.pat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a960" name="systematic_1_strictDev_1.pat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\systematic_1_strictDev_1.pat"/>
+        <packagedElement xmi:type="uml:Artifact" xmi:id="a961" name="systematic_1_timeDev_1.pat" fileName="C:\Users\jarleso\workspace\CommonSens\RuntimeData\systematic_1_timeDev_1.pat"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Package" xmi:id="a962" name="src">
+        <packagedElement xmi:type="uml:Package" xmi:id="a963" name="commonSens">
+          <packagedElement xmi:type="uml:Package" xmi:id="a964" name="environment">
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a965" name="CommonSensObject.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\environment\CommonSensObject.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a966" name="CoordinateStrength.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\environment\CoordinateStrength.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a967" name="Environment.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\environment\Environment.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a968" name="LocationOfInterest.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\environment\LocationOfInterest.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a969" name="Permeability.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\environment\Permeability.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a970" name="Person.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\environment\Person.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a971" name="Ray.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\environment\Ray.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a972" name="Shape.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\environment\Shape.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a973" name="Triple.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\environment\Triple.java"/>
+          </packagedElement>
+          <packagedElement xmi:type="uml:Package" xmi:id="a974" name="eventProcessor">
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a975" name="AndChainCalculations.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\AndChainCalculations.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a976" name="ConcurrencyState.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\ConcurrencyState.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a977" name="DataTuple.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\DataTuple.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a978" name="DataTupleFilter.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\DataTupleFilter.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a979" name="DuringState.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\DuringState.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a980" name="EqualsState.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\EqualsState.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a981" name="Interval.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\Interval.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a982" name="MainDataTupleFilter.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\MainDataTupleFilter.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a983" name="State.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\State.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a984" name="StateMachine.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\StateMachine.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a985" name="TemporalFeature.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\TemporalFeature.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a986" name="TimedChainOfStates.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\TimedChainOfStates.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a987" name="Timer.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\Timer.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a988" name="Timestamp.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\Timestamp.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a989" name="Transition.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\Transition.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a990" name="TupleSourceStatement.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\eventProcessor\TupleSourceStatement.java"/>
+          </packagedElement>
+          <packagedElement xmi:type="uml:Package" xmi:id="a991" name="language">
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a992" name="AND.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\AND.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a993" name="AtomicStatement.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\AtomicStatement.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a994" name="ConcurrencyOperator.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\ConcurrencyOperator.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a995" name="ConditionalStrict.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\ConditionalStrict.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a996" name="ConOpDuring.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\ConOpDuring.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a997" name="ConOpEquals.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\ConOpEquals.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a998" name="LogicalOperator.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\LogicalOperator.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a999" name="Loose.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\Loose.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1000" name="NOT.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\NOT.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1001" name="OR.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\OR.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1002" name="Relation.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\Relation.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1003" name="Restricted.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\Restricted.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1004" name="Statement.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\Statement.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1005" name="StatementElement.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\StatementElement.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1006" name="Strict.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\Strict.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1007" name="Strictness.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\Strictness.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1008" name="StrictnessFilter.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\StrictnessFilter.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1009" name="TimedChainOfAtomicStatements.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\language\TimedChainOfAtomicStatements.java"/>
+          </packagedElement>
+          <packagedElement xmi:type="uml:Package" xmi:id="a1010" name="modelViewController">
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1011" name="CapabilityChooser.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\CapabilityChooser.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1012" name="CommonSens.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\CommonSens.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1013" name="Core.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\Core.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1014" name="DrawPanel.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\DrawPanel.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1015" name="EnvironmentCreator.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\EnvironmentCreator.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1016" name="EnvironmentPanel.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\EnvironmentPanel.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1017" name="FChoose.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\FChoose.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1018" name="LocationOfInterestCreator.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\LocationOfInterestCreator.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1019" name="MainView.form" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\MainView.form"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1020" name="MainView.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\MainView.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1021" name="MovementCreator.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\MovementCreator.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1022" name="MovementRunner.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\MovementRunner.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1023" name="ObjectChooser.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\ObjectChooser.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1024" name="ObjectCreator.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\ObjectCreator.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1025" name="PhysicalSensorCreator.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\PhysicalSensorCreator.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1026" name="SensorChooser.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\SensorChooser.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1027" name="ShapeCanvas.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\ShapeCanvas.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1028" name="ShapeChooser.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\ShapeChooser.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1029" name="StatementCreator.form" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\StatementCreator.form"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1030" name="StatementCreator.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\modelViewController\StatementCreator.java"/>
+          </packagedElement>
+          <packagedElement xmi:type="uml:Package" xmi:id="a1031" name="sensing">
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1032" name="ByTheTelephoneFunction.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\ByTheTelephoneFunction.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1033" name="Capability.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\Capability.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1034" name="CapabilityDescription.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\CapabilityDescription.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1035" name="CustomFunction.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\CustomFunction.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1036" name="CustomFunctionLoader.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\CustomFunctionLoader.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1037" name="EmulatedTupleSource.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\EmulatedTupleSource.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1038" name="ExternalSource.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\ExternalSource.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1039" name="InTheKitchenFunction.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\InTheKitchenFunction.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1040" name="LogicalSensor.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\LogicalSensor.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1041" name="PhysicalSensor.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\PhysicalSensor.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1042" name="RangeInt.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\RangeInt.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1043" name="RangeString.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\RangeString.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1044" name="SensorDetected.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\SensorDetected.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1045" name="Service.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\Service.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1046" name="SignalType.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\SignalType.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1047" name="TemplateFunction.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\TemplateFunction.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1048" name="TupleSource.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\sensing\TupleSource.java"/>
+          </packagedElement>
+          <packagedElement xmi:type="uml:Package" xmi:id="a1049" name="statistics">
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1050" name="Measure.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\statistics\Measure.java"/>
+            <packagedElement xmi:type="uml:Artifact" xmi:id="a1051" name="PlotCreator.java" fileName="C:\Users\jarleso\workspace\CommonSens\src\commonSens\statistics\PlotCreator.java"/>
+          </packagedElement>
+        </packagedElement>
+      </packagedElement>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="a1052" name="detached elements">
+    <packagedElement xmi:type="uml:Class" xmi:id="a1053" name="detached elements"/>
+  </packagedElement>
+</uml:Model>

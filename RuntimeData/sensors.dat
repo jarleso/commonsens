@@ -1,0 +1,129 @@
+sensors 43
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M01 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M02 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M03 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M04 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M05 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M06 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M07 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M08 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M09 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M10 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M11 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M12 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 2
+DetectMotion switch ON OFF DetectMotion switch ON OFF type null name M14 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M15 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotionKitchen switch ON OFF type null name M16 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotionKitchen switch ON OFF type null name M17 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotionKitchen switch ON OFF type null name M18 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M19 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M20 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M21 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M22 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M23 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M24 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M25 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMotion switch ON OFF type null name M26 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectOatmeal switch ON OFF type null name I01 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectRaisins switch ON OFF type null name I02 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectBrownSugar switch ON OFF type null name I03 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectBowl switch ON OFF type null name I04 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMeasuringSpoon switch ON OFF type null name I05 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectMedicineContainer switch ON OFF type null name I06 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectPot switch ON OFF type null name I07 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectPhoneBookPresent switch PRESENT ABSENT type null name I08 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectCabinetOpen switch ON OFF type null name D01 object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectWater range 0 1 type null name AD1-A object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectWater range 0 1 type null name AD1-B object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+DetectWater range 0 1 type null name AD1-C object null 
+
+PhysicalSensor signalType Switch coverageArea null Hz 0.0 capabilities 1
+PhoneUsage switch START END type null name asterisk object null 
+
+LogicalSensor Hz 0.0 capabilities 1
+ByTheTelephone switch ON OFF dependedCapabilities 1 DetectMotionByPhone switch ON OFF function ByTheTelephoneFunction type null name T01
+
+LogicalSensor Hz 0.0 capabilities 1
+InTheKitchen switch ON OFF dependedCapabilities 1 DetectMotionKitchen switch ON OFF function InTheKitchenFunction type null name K01
+
+PhysicalSensor signalType Radio coverageArea S6 66 50 50 0  115 0 0  114 11 0  112 22 0  110 33 0  106 44 0  101 54 0  95 64 0  89 73 0  81 81 0  73 89 0  64 95 0  54 101 0  44 106 0  33 110 0  22 112 0  11 114 0  0 115 0  -11 114 0  -22 112 0  -33 110 0  -44 106 0  -54 101 0  -64 95 0  -73 89 0  -81 81 0  -89 73 0  -95 64 0  -101 54 0  -106 44 0  -110 33 0  -112 22 0  -114 11 0  -115 0 0  -114 -11 0  -112 -22 0  -110 -33 0  -106 -44 0  -101 -54 0  -95 -64 0  -89 -73 0  -81 -81 0  -73 -89 0  -64 -95 0  -54 -101 0  -44 -106 0  -33 -110 0  -22 -112 0  -11 -114 0  0 -115 0  11 -114 0  22 -112 0  33 -110 0  44 -106 0  54 -101 0  64 -95 0  73 -89 0  81 -81 0  89 -73 0  95 -64 0  101 -54 0  106 -44 0  110 -33 0  112 -22 0  114 -11 0  115 0 0  0 0 0  Hz 1.0 capabilities 1 DetectPerson sensor 0 id  
+type null name S6 object null 
+
+LogicalSensor Hz 1.0 capabilities 1
+TakingMedication sensor 0 id dependedCapabilities 0 function TemplateFunction type null name Med1
+
+EmulatedTupleSource stored Med1 DMSN10_Med1.trace

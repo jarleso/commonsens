@@ -1,0 +1,24 @@
+
+capabilities 22
+object range 0 1  
+other_sensor sensor 0 id  
+LocateRFIDActiveTag sensor 0 id  
+AnswerRFIDReader sensor 0 id  
+DetectPerson sensor 0 id  
+DetectMotion range 0 1  
+DetectPhoneBookPresent switch PRESENT ABSENT  
+DetectCabinetOpen switch ON OFF  
+DetectWater range 0 1
+PhoneUsage switch START END  
+ByTheTelephone switch ON OFF  
+DetectMedicineContainer switch ON OFF  
+DetectMeasuringSpoon switch ON OFF  
+DetectBowl switch ON OFF  
+DetectBrownSugar switch ON OFF  
+DetectRaisins switch ON OFF  
+DetectOatmeal switch ON OFF  
+DetectMotion switch ON OFF  
+DetectMotionByPhone switch ON OFF  
+DetectMotionInKitchen switch ON OFF  
+InTheKitchen switch ON OFF  
+TakingMedication sensor 0 id

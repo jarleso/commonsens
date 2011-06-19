@@ -1,0 +1,1 @@
+[ ( InTheKitchen == ON null -1 -1 min 100 ) -> ( DetectWater > 0 null 3 -1 min 100 ) -> ( InTheKitchen == OFF null -1 -1 min 100 ) , -1 -1 min 100 ]

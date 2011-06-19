@@ -1,0 +1,1 @@
+[ ( DetectPerson == Person1 LoI2 10 -1 min 50 ) -> ( DetectPerson == Person1 LoI1 10 -1 min 50 ) , -1 -1 min 100 ]

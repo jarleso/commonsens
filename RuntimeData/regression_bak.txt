@@ -1,0 +1,344 @@
+# Single state evaluation.
+
+# No lois.
+
+e1.env	c1_e1_LoI3.mov	c1.stm	6
+e2.env	c1_e2_all.mov	c1.stm	0
+e2.env	c1_noTrigger.mov	c1.stm	6
+
+# LoI1
+
+e1.env	c1_e1_LoI3.mov	c2.stm	0
+e1.env	c1_e2_all.mov	c2.stm	6
+e1.env  c2_LoI4.mov	c2.stm	6
+
+# t_b = 5, LoI3
+
+e1.env	c3_LoI3_6_steps.mov	c3.stm	0
+e1.env	c3_LoI3_5_steps.mov	c3.stm	0
+e1.env	c3_LoI3_1_step.mov	c3.stm	3
+
+# t_b = 1, t_e = 6, LoI3
+
+e1.env	c3_LoI3_6_steps.mov	c4.stm	0
+e1.env	c3_LoI3_5_steps.mov	c4.stm	0
+e1.env	c3_LoI3_1_step.mov	c4.stm	3
+e1.env	c1_noTrigger.mov	c4.stm	3
+
+# t_b = 5, LoI3, min 25
+
+e1.env	c3_LoI3_6_steps.mov	c5.stm	0
+e1.env	c3_LoI3_5_steps.mov	c5.stm	0
+e1.env	c3_LoI3_3_steps.mov	c5.stm	0
+e1.env	c3_LoI3_1_step.mov	c5.stm	3
+e1.env	c1_noTrigger.mov	c5.stm	6
+
+# t_b = 1, t_e = 6, LoI3, min 25
+
+e1.env	c3_LoI3_6_steps.mov	c6.stm	0
+e1.env	c3_LoI3_5_steps.mov	c6.stm	0
+e1.env	c3_LoI3_3_steps.mov	c6.stm	0
+e1.env	c3_LoI3_1_step.mov	c6.stm	3
+e1.env	c1_noTrigger.mov	c6.stm	3
+
+# t_b = 5, LoI3, max 25
+
+e1.env	c3_LoI3_6_steps.mov	c7.stm	3
+e1.env	c3_LoI3_5_steps.mov	c7.stm	3
+e1.env	c3_LoI3_3_steps.mov	c7.stm	3
+e1.env	c3_LoI3_1_step.mov	c7.stm	0
+e1.env	c1_noTrigger.mov	c7.stm	6
+
+# t_b = 1, t_e = 6, LoI3, max 25
+
+e1.env	c3_LoI3_6_steps.mov	c8.stm	3
+e1.env	c3_LoI3_5_steps.mov	c8.stm	3
+e1.env	c3_LoI3_3_steps.mov	c8.stm	3
+e1.env	c3_LoI3_1_step.mov	c8.stm	0
+e1.env	c1_noTrigger.mov		c8.stm	0
+
+# End single state evaluation.
+
+# Evaluation of && and ||.
+
+# &&
+
+# No lois.
+
+e1.env	c1_e1_LoI3.mov	c1_1and_similar.stm	6
+e2.env	c1_e2_all.mov	c1_1and_similar.stm	0
+e2.env	c1_noTrigger.mov	c1_1and_similar.stm	6
+
+# LoI3
+
+e1.env	c1_e1_LoI3.mov	c2_1and_similar.stm	0
+e1.env	c1_e2_all.mov	c2_1and_similar.stm	6
+e1.env  c2_LoI4.mov	c2_1and_similar.stm	6
+
+# t_b = 5, LoI3
+
+e1.env	c3_LoI3_6_steps.mov	c3_1and_similar.stm	0
+e1.env	c3_LoI3_5_steps.mov	c3_1and_similar.stm	0
+e1.env	c3_LoI3_1_step.mov	c3_1and_similar.stm	3
+
+# t_b = 1, t_e = 6, LoI3
+
+e1.env	c3_LoI3_6_steps.mov	c4_1and_similar.stm	0
+e1.env	c3_LoI3_5_steps.mov	c4_1and_similar.stm	0
+e1.env	c3_LoI3_1_step.mov	c4_1and_similar.stm	3
+e1.env	c1_noTrigger.mov		c4_1and_similar.stm	3
+
+# t_b = 5, LoI3, min 25
+
+e1.env	c3_LoI3_6_steps.mov	c5_1and_similar.stm	0
+e1.env	c3_LoI3_5_steps.mov	c5_1and_similar.stm	0
+e1.env	c3_LoI3_3_steps.mov	c5_1and_similar.stm	0
+e1.env	c3_LoI3_1_step.mov	c5_1and_similar.stm	3
+e1.env	c1_noTrigger.mov		c5_1and_similar.stm	6
+
+# t_b = 1, t_e = 6, LoI3, min 25
+
+e1.env	c3_LoI3_6_steps.mov	c6_1and_similar.stm	0
+e1.env	c3_LoI3_5_steps.mov	c6_1and_similar.stm	0
+e1.env	c3_LoI3_3_steps.mov	c6_1and_similar.stm	0
+e1.env	c3_LoI3_1_step.mov	c6_1and_similar.stm	3
+e1.env	c1_noTrigger.mov		c6_1and_similar.stm	3
+
+# t_b = 5, LoI3, max 25
+
+e1.env	c3_LoI3_6_steps.mov	c7_1and_similar.stm	3
+e1.env	c3_LoI3_5_steps.mov	c7_1and_similar.stm	3
+e1.env	c3_LoI3_3_steps.mov	c7_1and_similar.stm	3
+e1.env	c3_LoI3_1_step.mov	c7_1and_similar.stm	0
+e1.env	c1_noTrigger.mov		c7_1and_similar.stm	6
+
+# t_b = 1, t_e = 6, LoI3, max 25
+
+e1.env	c3_LoI3_6_steps.mov	c8_1and_similar.stm	3
+e1.env	c3_LoI3_5_steps.mov	c8_1and_similar.stm	3
+e1.env	c3_LoI3_3_steps.mov	c8_1and_similar.stm	3
+e1.env	c3_LoI3_1_step.mov	c8_1and_similar.stm	0
+e1.env	c1_noTrigger.mov		c8_1and_similar.stm	0
+
+# Different conditions in lois = LoI3 and LoI4
+
+# LoI3 and LoI4
+
+e4.env	c1_e1_LoI3.mov	c2_1and_different.stm	0
+e4.env	c1_e2_all.mov	c2_1and_different.stm	6
+e4.env  c2_LoI4.mov	c2_1and_different.stm	6
+
+# t_b = 5, LoI3 and LoI4
+
+e4.env	c3_LoI3_6_steps.mov	c3_1and_different.stm	0
+e4.env	c3_LoI3_5_steps.mov	c3_1and_different.stm	0
+e4.env	c3_LoI3_1_step.mov	c3_1and_different.stm	3
+
+# t_b = 1, t_e = 6, LoI3 and LoI4
+
+e4.env	c3_LoI3_6_steps.mov	c4_1and_different.stm	0
+e4.env	c3_LoI3_5_steps.mov	c4_1and_different.stm	0
+e4.env	c3_LoI3_1_step.mov	c4_1and_different.stm	3
+e4.env	c1_noTrigger.mov	c4_1and_different.stm	3
+
+# t_b = 5, LoI3, min 25
+
+e4.env	c3_LoI3_6_steps.mov	c5_1and_different.stm	0
+e4.env	c3_LoI3_5_steps.mov	c5_1and_different.stm	0
+e4.env	c3_LoI3_3_steps.mov	c5_1and_different.stm	0
+e4.env	c3_LoI3_1_step.mov	c5_1and_different.stm	3
+e4.env	c1_noTrigger.mov	c5_1and_different.stm	6
+
+# t_b = 1, t_e = 6, LoI3, min 25
+
+e4.env	c3_LoI3_6_steps.mov	c6_1and_different.stm	0
+e4.env	c3_LoI3_5_steps.mov	c6_1and_different.stm	0
+e4.env	c3_LoI3_3_steps.mov	c6_1and_different.stm	0
+e4.env	c3_LoI3_1_step.mov	c6_1and_different.stm	3
+e4.env	c1_noTrigger.mov	c6_1and_different.stm	3
+
+# t_b = 5, LoI3, max 25
+
+e4.env	c3_LoI3_6_steps.mov	c7_1and_different.stm	3
+e4.env	c3_LoI3_5_steps.mov	c7_1and_different.stm	3
+e4.env	c3_LoI3_3_steps.mov	c7_1and_different.stm	3
+e4.env	c3_LoI3_1_step.mov	c7_1and_different.stm	0
+e4.env	c1_noTrigger.mov	c7_1and_different.stm	6
+
+# t_b = 1, t_e = 6, LoI3, max 25
+
+e4.env	c3_LoI3_6_steps.mov	c8_1and_different.stm	3
+e4.env	c3_LoI3_5_steps.mov	c8_1and_different.stm	3
+e4.env	c3_LoI3_3_steps.mov	c8_1and_different.stm	3
+e4.env	c3_LoI3_1_step.mov	c8_1and_different.stm	0
+e4.env	c1_noTrigger.mov		c8_1and_different.stm	0
+
+# ||
+
+e1.env	c1_middle_LoI1.mov	c2_3or.stm	0
+e1.env	c1_middle_LoI2.mov	c2_3or.stm	0
+e1.env	c1_middle_LoI3.mov	c2_3or.stm	0
+e1.env	c1_middle_LoI4.mov	c2_3or.stm	0
+
+# || and different &&
+
+e4.env	c1_middle_LoI1.mov	c2_1or_1and_different.stm	0
+e4.env	c1_middle_LoI1.mov	c3_1or_1and_different.stm	3
+
+# Choosing between (LoI1/LoI2) and (LoI3/LoI4)
+
+e4.env	c3_LoI3_6_steps.mov	c4_1or_1and_different.stm	0
+e4.env	c3_LoI3_5_steps.mov	c4_1or_1and_different.stm	0
+e4.env	c3_LoI3_1_step.mov	c4_1or_1and_different.stm	3
+e4.env	c3_LoI3_3_steps.mov	c4_1or_1and_different.stm	3
+
+e4.env	c3_LoI1_6_steps.mov	c4_1or_1and_different.stm	0
+e4.env	c3_LoI1_5_steps.mov	c4_1or_1and_different.stm	0
+e4.env	c3_LoI1_3_steps.mov	c4_1or_1and_different.stm	3
+e4.env	c3_LoI1_1_step.mov	c4_1or_1and_different.stm	3
+
+e4.env	c1_noTrigger.mov		c4_1or_1and_different.stm	3
+
+e4.env	c3_LoI3_6_steps.mov	c5_1or_1and_different.stm	0
+e4.env	c3_LoI3_5_steps.mov	c5_1or_1and_different.stm	0
+e4.env	c3_LoI3_3_steps.mov	c5_1or_1and_different.stm	0
+e4.env	c3_LoI3_1_step.mov	c5_1or_1and_different.stm	3
+
+e4.env	c3_LoI1_6_steps.mov	c5_1or_1and_different.stm	0
+e4.env	c3_LoI1_5_steps.mov	c5_1or_1and_different.stm	0
+e4.env	c3_LoI1_3_steps.mov	c5_1or_1and_different.stm	0
+e4.env	c3_LoI1_1_step.mov	c5_1or_1and_different.stm	3
+
+e4.env	c1_noTrigger.mov		c5_1or_1and_different.stm	6
+
+e4.env	c3_LoI3_6_steps.mov	c6_1or_1and_different.stm	0
+e4.env	c3_LoI3_5_steps.mov	c6_1or_1and_different.stm	0
+e4.env	c3_LoI3_3_steps.mov	c6_1or_1and_different.stm	0
+e4.env	c3_LoI3_1_step.mov	c6_1or_1and_different.stm	3
+
+e4.env	c3_LoI1_6_steps.mov	c6_1or_1and_different.stm	0
+e4.env	c3_LoI1_5_steps.mov	c6_1or_1and_different.stm	0
+e4.env	c3_LoI1_3_steps.mov	c6_1or_1and_different.stm	0
+e4.env	c3_LoI1_1_step.mov	c6_1or_1and_different.stm	3
+
+e4.env	c1_noTrigger.mov		c6_1or_1and_different.stm	3
+
+e4.env	c3_LoI3_6_steps.mov	c7_1or_1and_different.stm	3
+e4.env	c3_LoI3_5_steps.mov	c7_1or_1and_different.stm	3
+e4.env	c3_LoI3_3_steps.mov	c7_1or_1and_different.stm	3
+e4.env	c3_LoI3_1_step.mov	c7_1or_1and_different.stm	0
+
+e4.env	c3_LoI1_6_steps.mov	c7_1or_1and_different.stm	3
+e4.env	c3_LoI1_5_steps.mov	c7_1or_1and_different.stm	3
+e4.env	c3_LoI1_3_steps.mov	c7_1or_1and_different.stm	3
+e4.env	c3_LoI1_1_step.mov	c7_1or_1and_different.stm	0
+
+e4.env	c1_noTrigger.mov		c7_1or_1and_different.stm	6
+
+e4.env	c3_LoI3_6_steps.mov	c8_1or_1and_different.stm	3
+e4.env	c3_LoI3_5_steps.mov	c8_1or_1and_different.stm	3
+e4.env	c3_LoI3_3_steps.mov	c8_1or_1and_different.stm	3
+e4.env	c3_LoI3_1_step.mov	c8_1or_1and_different.stm	0
+
+e4.env	c3_LoI1_6_steps.mov	c8_1or_1and_different.stm	3
+e4.env	c3_LoI1_5_steps.mov	c8_1or_1and_different.stm	3
+e4.env	c3_LoI1_3_steps.mov	c8_1or_1and_different.stm	3
+e4.env	c3_LoI1_1_step.mov	c8_1or_1and_different.stm	0
+
+e4.env	c1_noTrigger.mov		c8_1or_1and_different.stm	0
+
+# At least one of the and-chaines are timed
+
+e4.env	c3_LoI3_6_steps.mov	c3_1or_different_timing.stm	0
+e4.env	c3_LoI3_5_steps.mov	c3_1or_different_timing.stm	0
+e4.env	c3_LoI3_3_steps.mov	c3_1or_different_timing.stm	3
+e4.env	c3_LoI3_1_step.mov	c3_1or_different_timing.stm	3
+
+e4.env	c3_LoI1_6_steps.mov	c3_1or_different_timing.stm	0
+e4.env	c3_LoI1_5_steps.mov	c3_1or_different_timing.stm	0
+e4.env	c3_LoI1_3_steps.mov	c3_1or_different_timing.stm	3
+e4.env	c3_LoI1_1_step.mov	c3_1or_different_timing.stm	3
+
+e4.env	c1_noTrigger.mov		c3_1or_different_timing.stm	3
+
+e4.env	c3_LoI3_LoI1_12_steps.mov	c3_1or_different_timing.stm	0
+e1.env		c3_all_lois_LoI3_6_steps.mov		c2_3or_deltaTimed.stm		0
+e1.env		c3_all_lois_1_step.mov			c2_3or_deltaTimed.stm		3
+
+
+# End evaluation of && and ||.
+
+# Begin consecutive evaluation
+
+# ->
+
+e1.env	c3_all_lois_1_step.mov		c9.stm	0
+
+e1.env	c3_all_lois_3_steps.mov		c9_delta_timed.stm	0
+e1.env	c3_all_lois_2_to_3_steps.mov		c9_delta_timed.stm	3
+e1.env	c3_all_lois_3_steps.mov		c9_timed.stm		0
+e1.env	c3_all_lois_2_to_3_steps.mov		c9_timed.stm	3
+e1.env	c3_all_lois_3_to_2_steps.mov		c9_timed.stm	3
+
+# =>
+
+e1.env	c3_all_lois_1_step.mov		c10.stm		0
+
+e1.env	c3_all_lois_3_steps.mov		c10_delta_timed.stm	0
+e1.env	c3_all_lois_2_to_3_steps.mov	c10_delta_timed.stm	3
+e1.env	c3_all_lois_3_steps.mov		c10_timed.stm		0
+e1.env	c3_all_lois_2_to_3_steps.mov		c10_timed.stm	3
+e1.env	c3_all_lois_3_to_2_steps.mov		c10_timed.stm	3
+
+e1.env	c3_all_lois_3_steps_1_middle.mov		c11_timed.stm	0
+
+e1.env	c3_all_lois_3_to_2_steps.mov		c11_timed.stm	3
+
+e4.env		c3_LoI3_LoI1_12_steps.mov	c12_and_and.stm	0
+e1.env		c3_LoI3_LoI1_12_steps.mov	c12_and_and.stm	6
+e4.env		c3_LoI3_LoI1_12_steps.mov	c12_and_or.stm	0
+e1.env		c3_LoI3_LoI1_12_steps.mov	c12_and_or.stm	6
+e4.env		c3_LoI3_LoI1_12_steps.mov	c12_or_and.stm	0
+e1.env		c3_LoI3_LoI1_12_steps.mov	c12_or_and.stm	6
+e4.env		c3_LoI3_LoI1_12_steps.mov	c12_or_or.stm	0
+
+e4.env		c3_all_lois_3_steps.mov	c12_or_or.stm		0
+
+# => with plain strictness deviation
+
+e1.env	c3_all_lois_1_step_1.mov		c10.stm		2
+
+# End consecutive evaluation.
+
+# not
+
+e1.env	c1_e1_LoI3.mov	c1_not.stm	0
+e1.env	c1_e1_LoI3.mov	c2_not.stm	0
+
+# end not
+
+# Concurrency classes
+
+# Equals:
+
+e4.env	c1_e1_LoI3.mov	c13.stm	0
+e4.env	c1_e1_LoI3.mov	c13_1.stm	7
+
+# During:
+
+e5.env	c3_diagonal_middle_5.mov	c14.stm	0
+e5.env	c3_lower_part_12_steps.mov	c14.stm	7
+
+# Holistic timing
+
+e1.env	c3_diagonal_middle_5.mov	timed_complex_query_1.stm		8
+e1.env	c3_diagonal_middle_5.mov	timed_complex_query_2.stm		8
+e1.env	c3_diagonal_middle_5.mov	timed_complex_query_3.stm		0
+
+# Chain with delta-timed query followed by timed query
+
+e1.env	c1_middle_LoI4.mov	complex_query_1.stm	3
+
+# Real life use cases
+
+# From 

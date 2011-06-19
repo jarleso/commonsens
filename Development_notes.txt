@@ -1,0 +1,6 @@
+1. Gjør om 'current filter' til current sets.
+2. Få informasjonen om de forskjellige settene.
+	1. Før prosesseringen skrives settet E opp, dvs. alle de typene events som kan oppdages. Dette bør kunne fikses i capability-objektene, dvs at de viser et 'bidrag' til E.
+Simple query with P-reg = min 100. 
+[ (  DetectPerson == Person1 LoI3 3000 -1 min 100.0) => (  DetectPerson == Person1 LoI4 3000 -1 min 100.0) => (  DetectPerson == Person1 LoI1 3000 -1 min 100.0) => (  DetectPerson == Person1 LoI2 3000 -1 min 100.0)  , -1 -1 max 100.0 ]
+To begin with, N = M. At once the evaluation starts N is all the permutations of duration less than 100% with the given sample rate. When the first statement is finished, show all the possible N's as only one sample of the sensors that provide DetectPerson. Can be obtained from the DevRep set.

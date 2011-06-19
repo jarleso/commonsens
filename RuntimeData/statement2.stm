@@ -1,0 +1,1 @@
+( ( DetectPerson == Person1 BathroomDoor 10 -1 min 10 ) -> ( DetectPerson == Person1 WC 10 -1 min 10 ) => ( DetectPerson == Person1 Sink 10 -1 min 10 ) , 600 -1 min 10 )

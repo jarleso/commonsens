@@ -1,0 +1,36 @@
+c1_e1_LoI3.mov -> m1.mov
+c1_e2_all.mov -> m2.mov
+c1_noTrigger.mov -> m3.mov
+c2_LoI4.mov -> m4.mov
+c3_LoI3_6_steps.mov -> m5.mov
+c3_LoI3_5_steps.mov -> m6.mov
+c3_LoI3_1_step.mov -> m7.mov
+c3_LoI3_3_steps.mov -> m8.mov
+c1_center_LoI1.mov -> m9.mov
+c1_center_LoI2.mov -> m10.mov
+c1_center_LoI3.mov -> m11.mov
+c1_center_LoI4.mov -> m12.mov
+c3_LoI1_6_steps.mov -> m13.mov
+c3_LoI1_5_steps.mov -> m14.mov
+c3_LoI1_3_steps.mov -> m15.mov
+c3_LoI1_1_step.mov -> m16.mov
+c3_LoI3_LoI1_12_steps.mov -> m17.mov
+c3_all_lois_LoI3_6_steps.mov -> m18.mov
+c3_all_lois_1_step.mov -> m19.mov
+c3_all_lois_3_steps.mov -> m20.mov
+c3_all_lois_2_to_3_steps.mov -> m21.mov
+c3_all_lois_3_to_2_steps.mov -> m22.mov
+c3_diagonal_center_5.mov -> m23.mov
+c3_lower_part_12_steps.mov -> m24.mov
+SmartE_movement_1.mov -> m25.mov
+SmartE_movement_2.mov -> m26.mov
+SmartE_movement_3.mov -> m27.mov
+SmartE_movement_4.mov -> m28.mov
+SmartE_movement_5.mov -> m29.mov
+SmartE_movement_6.mov -> m30.mov
+SmartE_movement_7.mov -> m31.mov
+
+These are not included since they are related to =>:
+
+c3_all_lois_3_steps_1_centre -> m32.mov
+c3_all_lois_1_step_1.mov -> m33.mov

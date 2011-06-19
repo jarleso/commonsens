@@ -1,0 +1,1 @@
+[ ( DetectMotion == true LoI1 10 -1 min 50 ) -> ( DetectMotion == true LoI2 10 -1 min 50 ) , -1 -1 min 100 ]

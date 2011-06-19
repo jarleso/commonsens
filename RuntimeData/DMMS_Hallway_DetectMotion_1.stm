@@ -1,0 +1,1 @@
+[ ( DetectMotion == true HallwayInner 2 -1 min 50 ) -> ( DetectMotion == true CoffeeMachine 2 -1 min 50 ) -> ( DetectMotion == true HallwayMain 2 -1 min 50 ) -> ( DetectMotion == true HallwayTurn 2 -1 min 50 ) , -1 -1 min 100 ]

@@ -1,0 +1,1 @@
+[ equals ( [ ( DetectPerson == Person1 LoI3 -1 -1 min 100 ) , -1 -1 min 100 ] , [ ( DetectPerson == Person1 LoI1 -1 -1 min 100 ) , -1 -1 min 100 ] ) , -1 -1 min 100 ]

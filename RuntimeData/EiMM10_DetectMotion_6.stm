@@ -1,0 +1,1 @@
+[ ( DetectMotion == OFF LoI2 5 -1 min 50 ) -> ( DetectMotion == OFF LoI1 5 -1 min 50 ) -> ( DetectMotion == OFF LoI2 5 -1 min 50 ) , -1 -1 min 100 ]

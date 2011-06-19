@@ -1,0 +1,1 @@
+[ ( DetectPhoneBookPresent == ABSENT null -1 -1 max 100 ) -> ( PhoneUsage == START null -1 -1 max 100 ) -> ( PhoneUsage == END null -1 -1 max 100 ) -> ( DetectPhoneBookPresent == PRESENT null -1 -1 max 100 ) , 108 -1 max 100 ]

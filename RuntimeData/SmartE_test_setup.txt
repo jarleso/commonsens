@@ -1,0 +1,56 @@
+# SmartE_movement_1.mov:
+# LoI1: 3 steps, LoI2: 17 steps, LoI3: 3 steps, LoI2: 7 steps, 
+# LoI4: 10 steps
+
+SmartE_env.env	SmartE_movement_1.mov	SmartE_query_1.stm	0
+
+# SmartE_movement_2.mov:
+#
+# Should deviate on first atomic query.
+#
+# LoI1: 7 steps, LoI2: 17 steps, LoI3: 3 steps, LoI2: 7 steps, 
+# LoI4: 10 steps
+
+SmartE_env.env	SmartE_movement_2.mov	SmartE_query_1.stm	3
+
+# SmartE_movement_3.mov:
+#
+# Should deviate on second atomic query.
+#
+# LoI1: 3 steps, LoI4: 7 steps, LoI2: 2 steps, LoI4: 30 steps 
+
+SmartE_env.env	SmartE_movement_3.mov	SmartE_query_1.stm	3
+
+# SmartE_movement_4.mov:
+#
+# Should deviate on third atomic query.
+#
+# LoI1: 3 steps, LoI2: 6 steps, LoI3: 6 steps, LoI2: 7 steps, 
+# LoI4: 10 steps
+
+SmartE_env.env	SmartE_movement_4.mov	SmartE_query_1.stm	3
+
+# SmartE_movement_5.mov:
+#
+# Should deviate on third atomic query.
+#
+# LoI1: 3 steps, LoI2: 17 steps, LoI3: 3 steps, LoI2: 21 steps 
+
+SmartE_env.env	SmartE_movement_5.mov	SmartE_query_1.stm	3
+
+# SmartE_movement_6.mov:
+#
+# Should match a during-query: during(loi5, loi6)
+#
+# LoI6: 10 steps, LoI6/LoI5: 10 steps, LoI6: 10 steps
+
+SmartE_env.env	SmartE_movement_6.mov	SmartE_query_2.stm	0
+
+# SmartE_movement_7.mov:
+#
+# Should deviate a during-query: during(loi5, loi6)
+#
+# LoI6: 10 steps, LoI6/LoI5: 10 steps, LoI1: 10 steps
+
+SmartE_env.env	SmartE_movement_7.mov	SmartE_query_2.stm	7
+

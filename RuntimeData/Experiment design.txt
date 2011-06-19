@@ -1,0 +1,53 @@
+Functional testing.
+
+M_FINISHED = 0;
+M_STATE_CHANGED = 1;
+M_STRICTNESS_DEVIATION = 2;
+M_TIMING_DEVIATION = 3;
+M_UNKNOWN = 4;
+M_CONTINUE = 5;
+M_NO_TRIGGER = 6;
+
+Uses environment e1.env.
+
+Single state statements:
+
+( ( DetectPerson == Person1 null -1 -1 min 0 ) , -1 -1 min 0 ) (c1.stm) : When the condition is satisfied the state machine should go into the final state. All the sensors that provide the capability in the environment should report a positive reading in order for the state to be satisfied. 
+
+Tests: 
+c1_e1_LoI3.mov e1.env = no trigger
+c1_e2_all.mov e2.env = fulfulled
+
+
+
+---
+
+File output:
+
+X = numSensors
+Y = timeMillis
+Z = executionRun
+
+Performance:
+
+env: home_environment_4.env
+stm: statement3.stm
+mov: c_0.pat
+
+Works:
+
+env: systematic_1.env
+stm: strictness_1.stm
+mov: LoI1_LoI2_LoI3.pat
+
+Strictness voilation:
+
+env: systematic_1.env
+stm: strictness_1.stm
+mov: LoI1_LoI3_LoI2.pat
+
+Timing voilation:
+
+env: systematic_1.env
+stm: strictness_2_with_min_90.stm
+mov: LoI1_out.pat
