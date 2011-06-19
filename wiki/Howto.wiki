@@ -1,0 +1,5 @@
+# Howto for running the CommonSens code
+
+= Introduction =
+
+The code tree is an Eclipse project, so it can be used directly through Eclipse.
