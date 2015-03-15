@@ -1,0 +1,1 @@
+Proof-of-concept implementation of CommonSens, a multimodal complex event processing system for automated home care.

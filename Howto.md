@@ -1,0 +1,9 @@
+# Howto for running the CommonSens code
+
+# Introduction #
+
+The code tree is an Eclipse project, so it can be used directly through Eclipse.
+
+Note that the current state of the code is made as part of a research project to show several concepts. A description of the structure is given in
+
+  * Jarle Søberg. CommonSens: A Multimodal Complex Event Processing System for Automated Home Care. PhD thesis. Faculty of Mathematics and Natural Sciences, University of Oslo (No. 1089, ISSN 1501-7710), June 2011
